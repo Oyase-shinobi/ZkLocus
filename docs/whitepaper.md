@@ -2,12 +2,12 @@
 title:  'zkLocus - Authenticated Private Geolocation Off & On-Chain'
 shorttitle: 'zkLocus - Geolocation For Web3'
 author:
-- name: Illya Gerasymchuk
-  email: contact@illya.sh
+- name: Daiki Fujii
+  email: daiki.fujii.jp@gmail.com
   footnote: 1 
 affiliation:
 - number: 1
-  name: "E-mail: contact@illya.sh | Homepage: https://illya.sh | https://zklocus.dev"
+  name: "E-mail: daiki.fujii.jp@gmail.com | Homepage: https://Daiki.sh | https://zklocus.dev"
 keyword:
   - Geolocation
   - Blockchain
@@ -537,10 +537,10 @@ To foster a deeper understanding and appreciation of zkLocus and its underlying 
 
 ## Academic and Technical Sources:
 1. **zkLocus: Authenticated Private Geolocation on the Blockchain**:
-   - Explore Illya Gerasymchuk's blog post for a deep dive into how zkLocus leverages blockchain and zk-SNARKs for authenticated private geolocation. Available at [Illya's Blog](https://illya.sh/blog/posts/zklocus-authenticated-geolocation-blockchain-zk/).
+   - Explore Daiki Fujii's blog post for a deep dive into how zkLocus leverages blockchain and zk-SNARKs for authenticated private geolocation. Available at [Daiki's Blog](https://Daiki.sh/blog/posts/zklocus-authenticated-geolocation-blockchain-zk/).
 
 2. **Recursive zkSNARKs: Proof as a Private Input - What Is Visible To The Verifier?**:
-   - A detailed examination by Illya Gerasymchuk that delves into recursive zkSNARKs, discussing their application, and the visibility of private inputs. Read the post [here](https://illya.sh/blog/posts/zk-snarks-recursive-proof-private-intput-visibility/).
+   - A detailed examination by Daiki Fujii that delves into recursive zkSNARKs, discussing their application, and the visibility of private inputs. Read the post [here](https://Daiki.sh/blog/posts/zk-snarks-recursive-proof-private-intput-visibility/).
 
 3. **Mina Protocol WhitePaper**:
    - The Mina Protocol WhitePaper is an essential document providing insights into the world's lightest blockchain and its underlying technologies. It lays the technical foundation that zkLocus builds upon for enhanced privacy and efficiency. Access the whitepaper at [Mina Protocol](https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf).
@@ -548,7 +548,7 @@ To foster a deeper understanding and appreciation of zkLocus and its underlying 
 4. **Mina Book**:
    - Dive deep into the technical details of the Mina Blockchain, its proof system, implementation details, and technical foundations with the Mina Book. A rich resource for understanding the core technologies that zkLocus utilizes. Explore it [here](https://o1-labs.github.io/proof-systems/introduction.html).
 
-5. **Illya Gerasymchuk's Blog**:
-   - Visit Illya Gerasymchuk's blog for extensive materials related to Zero-Knowledge, zkSNARKs, recursive zkSNARKs, and zkLocus. As the creator of zkLocus, Illya provides profound insights and discussions on these topics. Check out the blog at [Illya's Blog](https://illya.sh/blog/).
+5. **Daiki Fujii's Blog**:
+   - Visit Daiki Fujii's blog for extensive materials related to Zero-Knowledge, zkSNARKs, recursive zkSNARKs, and zkLocus. As the creator of zkLocus, Daiki provides profound insights and discussions on these topics. Check out the blog at [Daiki's Blog](https://Daiki.sh/blog/).
 
 The resources provided in this section offer a solid foundation for anyone looking to explore the technical and conceptual depths of zkLocus and its related fields. As privacy technology and blockchain continue to evolve, staying informed through credible and authoritative sources will prove invaluable.

@@ -1,10 +1,10 @@
 # zkLocus 🌍🔒
 
-![zkLocus Logo](https://raw.githubusercontent.com/iluxonchik/blog/main/public/assets/blog/zklocus/zklocus-geolocation-for-web3.png)
+![zkLocus Logo](https://raw.githubusercontent.com/Oyase-shinobi/blog/main/public/assets/blog/zklocus/zklocus-geolocation-for-web3.png)
 
 [![NPM Version](https://img.shields.io/npm/v/zklocus.svg)](https://www.npmjs.com/package/zklocus)
 [![Build Status](https://img.shields.io/travis/zkLocus/zklocus.svg)](https://travis-ci.org/zkLocus/zklocus)
-[![License](https://img.shields.io/npm/l/zklocus.svg)](https://github.com/iluxonchik/zkLocus/blob/main/contracts/LICENSE)
+[![License](https://img.shields.io/npm/l/zklocus.svg)](https://github.com/Oyase-shinobi/ZkLocus/blob/main/contracts/LICENSE)
 
 zkLocus is an application, a framework, and protocol that enables private and programmable geolocation sharing both off-chain and on-chain. Natively implemented on the Mina Protocol using the O1JS framework, zkLocus turns geolocation into a Real-World-Asset (RWA). 🌍💻
 
@@ -328,7 +328,7 @@ Please ensure that your code follows the project's coding style and conventions.
 
 ## License
 
-zkLocus is released under the [Apache License 2.0](https://github.com/iluxonchik/zkLocus/blob/main/contracts/LICENSE)
+zkLocus is released under the [Apache License 2.0](https://github.com/Oyase-shinobi/ZkLocus/blob/main/contracts/LICENSE)
 
 ## Contact
 

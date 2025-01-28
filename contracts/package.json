@@ -2,7 +2,7 @@
   "name": "zklocus",
   "version": "0.5.0",
   "description": "Blockchain-agnostic, private geolocation verification via zero-knowledge proofs using recursive zk-SNARKs.",
-  "author": "Illya Gerasymchuk",
+  "author": "Daiki Fujii",
   "license": "MIT",
   "keywords": [
     "blockchain",
@@ -24,10 +24,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/iluxonchik/zkLocus.git"
+    "url": "https://github.com/Oyase-shinobi/ZkLocus.git"
   },
   "bugs": {
-    "url": "https://github.com/iluxonchik/zkLocus/issues"
+    "url": "https://github.com/Oyase-shinobi/ZkLocus/issues"
   },
   "homepage": "https://zklocus.dev",
   "type": "module",

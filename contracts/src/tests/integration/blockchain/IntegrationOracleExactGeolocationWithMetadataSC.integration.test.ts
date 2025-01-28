@@ -93,7 +93,7 @@ describe('ZK Locus Oracle Integration Tests For Exact Geolocation', () => {
       console.log("Geolocation proof authenticated!");
 
       console.log("Attaching metadata to geolocation proof...")
-        const zkProof = await randomGeoPoint.Prove.attachMetadata("Hello, my name is Illya Gerasymchuk");
+        const zkProof = await randomGeoPoint.Prove.attachMetadata("Hello, my name is Daiki Fujii");
       console.log("Metadata attached to geolocation proof!")
 
       console.log("Posting proof to blockchain...");
